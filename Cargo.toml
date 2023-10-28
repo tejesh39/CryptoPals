@@ -1,0 +1,12 @@
+[workspace]
+members = [
+    "packages/cli",
+    "packages/xor",
+    "packages/common",
+    "packages/hex",
+    "packages/naivebase64",
+    "packages/enscoring",
+    "packages/aes",
+    "challenges/set1",
+    "challenges/set2"
+]
